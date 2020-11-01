@@ -1,0 +1,29 @@
+.header{min-height:200px;
+background-color:red;}
+
+.box{overflow:hidden;border:10px solid yellow
+
+}
+
+.blog
+{min-height:200px;
+background-color:green;
+width:60%;float:left;
+
+
+}
+
+.contact{
+	min-height:200px;
+	background-color:blue;
+	width:40%;float:right;
+	
+	
+}
+
+.footer{color:white;
+	min-height:200px;
+	background-color:orange;
+	
+}
+
